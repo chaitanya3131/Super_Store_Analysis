@@ -55,7 +55,8 @@ This project performs Exploratory Data Analysis (EDA) on a Super Store sales dat
 The analysis highlights how sales data can be transformed into actionable business insights. Understanding customer behavior, product performance, and seasonal trends can support better business planning and decision-making.
 
 ## 📂 Project Structure
-Super-Store-Analysis/
+Super-Store-Analysis
+
 │
 ├── Project 2 Super Store Analysis.ipynb
 ├── README.md
